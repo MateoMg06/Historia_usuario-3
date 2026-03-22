@@ -1,6 +1,6 @@
 def menu_inventory():
-    print("----------wellcome to your inventory--------------")
-    print("1.add product\n2.show result\n3.calculated stadistic\n4.salir")
+    print("----------Welcome to your inventory----------")
+    print("1. Add product\n2. Show result\n3. Calculate statistics\n4. Exit")
     
 
 
